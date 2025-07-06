@@ -54,3 +54,15 @@
 2025-07-06 15:48:33,936 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
 2025-07-06 15:49:54,845 - ERROR - CloudWatch logging setup failed: You must specify a region.
 2025-07-06 15:51:40,594 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:53:30,704 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:53:38,740 - ERROR - List items failed: Multiple exceptions: [Errno 61] Connect call failed ('127.0.0.1', 5432), [Errno 61] Connect call failed ('::1', 5432, 0, 0)
+2025-07-06 15:53:59,591 - ERROR - List items failed: Multiple exceptions: [Errno 61] Connect call failed ('127.0.0.1', 5432), [Errno 61] Connect call failed ('::1', 5432, 0, 0)
+2025-07-06 15:55:48,028 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:56:34,784 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:56:54,762 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:57:53,106 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:58:03,008 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:58:04,425 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:58:05,339 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:59:44,843 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 16:00:06,057 - ERROR - List items failed: Multiple exceptions: [Errno 61] Connect call failed ('127.0.0.1', 5432), [Errno 61] Connect call failed ('::1', 5432, 0, 0)
