@@ -1,0 +1,56 @@
+2025-07-06 14:21:14,513 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 14:21:14,863 - ERROR - S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2025-07-06 14:21:14,865 - INFO - HTTP Request: POST http://testserver/s3/upload "HTTP/1.1 500 Internal Server Error"
+2025-07-06 14:21:14,896 - ERROR - Create item failed: the greenlet library is required to use this function. No module named 'greenlet'
+2025-07-06 14:21:14,897 - INFO - HTTP Request: POST http://testserver/db/items "HTTP/1.1 500 Internal Server Error"
+2025-07-06 14:21:14,989 - ERROR - External microservice call failed: object MagicMock can't be used in 'await' expression
+2025-07-06 14:21:14,990 - INFO - HTTP Request: GET http://testserver/microservice/external-data "HTTP/1.1 502 Bad Gateway"
+2025-07-06 14:21:15,011 - INFO - Health check endpoint called
+2025-07-06 14:21:15,012 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2025-07-06 15:45:47,311 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:45:47,552 - ERROR - S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2025-07-06 15:45:47,552 - INFO - HTTP Request: POST http://testserver/s3/upload "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:45:47,583 - ERROR - Create item failed: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-07-06 15:45:47,583 - INFO - HTTP Request: POST http://testserver/db/items "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:45:47,654 - ERROR - External microservice call failed: object MagicMock can't be used in 'await' expression
+2025-07-06 15:45:47,655 - INFO - HTTP Request: GET http://testserver/microservice/external-data "HTTP/1.1 502 Bad Gateway"
+2025-07-06 15:45:47,670 - INFO - Health check endpoint called
+2025-07-06 15:45:47,670 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2025-07-06 15:46:29,891 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:46:32,113 - ERROR - S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2025-07-06 15:46:32,114 - INFO - HTTP Request: POST http://testserver/s3/upload "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:46:32,148 - ERROR - Create item failed: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-07-06 15:46:32,149 - INFO - HTTP Request: POST http://testserver/db/items "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:46:32,243 - ERROR - External microservice call failed: object MagicMock can't be used in 'await' expression
+2025-07-06 15:46:32,245 - INFO - HTTP Request: GET http://testserver/microservice/external-data "HTTP/1.1 502 Bad Gateway"
+2025-07-06 15:46:32,261 - INFO - Health check endpoint called
+2025-07-06 15:46:32,261 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2025-07-06 15:47:27,073 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:47:27,215 - ERROR - S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2025-07-06 15:47:27,216 - INFO - HTTP Request: POST http://testserver/s3/upload "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:47:27,247 - ERROR - Create item failed: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-07-06 15:47:27,248 - INFO - HTTP Request: POST http://testserver/db/items "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:47:27,279 - ERROR - External microservice call failed: object MagicMock can't be used in 'await' expression
+2025-07-06 15:47:27,280 - INFO - HTTP Request: GET http://testserver/microservice/external-data "HTTP/1.1 502 Bad Gateway"
+2025-07-06 15:47:27,291 - INFO - Health check endpoint called
+2025-07-06 15:47:27,292 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2025-07-06 15:48:02,112 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:48:04,283 - ERROR - S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2025-07-06 15:48:04,285 - INFO - HTTP Request: POST http://testserver/s3/upload "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:48:04,319 - ERROR - Create item failed: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-07-06 15:48:04,320 - INFO - HTTP Request: POST http://testserver/db/items "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:48:04,361 - ERROR - External microservice call failed: object MagicMock can't be used in 'await' expression
+2025-07-06 15:48:04,362 - INFO - HTTP Request: GET http://testserver/microservice/external-data "HTTP/1.1 502 Bad Gateway"
+2025-07-06 15:48:04,378 - INFO - Health check endpoint called
+2025-07-06 15:48:04,379 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2025-07-06 15:48:33,664 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:48:33,840 - ERROR - S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2025-07-06 15:48:33,842 - INFO - HTTP Request: POST http://testserver/s3/upload "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:48:33,877 - ERROR - Create item failed: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-07-06 15:48:33,878 - INFO - HTTP Request: POST http://testserver/db/items "HTTP/1.1 500 Internal Server Error"
+2025-07-06 15:48:33,919 - ERROR - External microservice call failed: object MagicMock can't be used in 'await' expression
+2025-07-06 15:48:33,920 - INFO - HTTP Request: GET http://testserver/microservice/external-data "HTTP/1.1 502 Bad Gateway"
+2025-07-06 15:48:33,935 - INFO - Health check endpoint called
+2025-07-06 15:48:33,936 - INFO - HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2025-07-06 15:49:54,845 - ERROR - CloudWatch logging setup failed: You must specify a region.
+2025-07-06 15:51:40,594 - ERROR - CloudWatch logging setup failed: You must specify a region.
